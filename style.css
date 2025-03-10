@@ -17,7 +17,7 @@ body {
 }
 
 .background-image {
-    height: 120vh;
+    height: 2000vh;
     width: 100vw;
     transition: opacity 1s ease-in-out;
     opacity: 0;
