@@ -12,14 +12,12 @@ body {
 .background-container {
     top: 0;
     left: 0;
-    height: 100vh;
-    height: 100vw;
     position: fixed;
     z-index: -1; 
 }
 
 .background-image {
-    height: 100vh;
+    height: 120vh;
     width: 100vw;
     transition: opacity 1s ease-in-out;
     opacity: 0;
